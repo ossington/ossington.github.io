@@ -43,7 +43,7 @@ ssmItems[2]=["Marriages 1600-1837", "page6.html",""]
 ssmItems[3]=["Census 1841", "page5.html", ""]
 ssmItems[4]=["Census 1851", "page4.html", ""]
 ssmItems[5]=["Census 1861", "page3.html", ""]
-ssmItems[6]=["", "page", ""]
+ssmItems[6]=["Census 1871", "page8.html", ""]
 ssmItems[7]=["Census 1881", "page7.html", ""]
 ssmItems[8]=["Census 1891", "page2.html", ""]
 ssmItems[9]=["", "page", ""]
@@ -54,3 +54,4 @@ ssmItems[12]=["", "page", ""]
 buildMenu();
 
 //-->
+
