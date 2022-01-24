@@ -48,7 +48,7 @@ ssmItems[7]=["Census 1881", "1881.html", ""]
 ssmItems[8]=["Census 1891", "1891.html", ""]
 ssmItems[9]=["Census 1901", "1901.html", ""]
 ssmItems[10]=["Census 1911", "1911.html", ""]
-ssmItems[11]=["", "page", ""]
+ssmItems[11]=["Census 1921", "1921.html", ""]
 ssmItems[12]=["", "page", ""]
 
 buildMenu();
